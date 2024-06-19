@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**oyj1218/oyj1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 <div align="center">
 

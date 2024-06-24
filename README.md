@@ -68,6 +68,6 @@
 ### 📗Projects
 #### 세미 프로젝트_finDrink
 
-#### 개인프로젝트 프로젝트_Jumper
-
+#### 개인프로젝트 프로젝트_Jumper, Mmca
+https://github.com/oyj1218/04_WebFront/tree/main/OYJ_Projects
 

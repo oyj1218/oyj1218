@@ -67,6 +67,7 @@
 
 ### 📗Projects
 #### 세미 프로젝트_finDrink
+https://drive.google.com/drive/folders/1AiWI5HzGDazD0sHpFZvUSjIVXK-HCqW_?usp=sharing
 
 #### 개인프로젝트 프로젝트_Jumper, Mmca
 https://oyj1218.github.io/OYJ-Projects_Jumper/

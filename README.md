@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyj1218&layout=donut-vertical)](https://github.com/oyj1218/github-readme-stats)
 
 ### 👋 Hello My name is OYJ 
-풀스텍 개발자를 꿈꾸고 있는 OYJ입니다.
+예술과 개발, 그 중심에 있는 OYJ입니다.
 
 ### 📞 Contact 
 <a href="mailto:suzyoh@naver.com">
